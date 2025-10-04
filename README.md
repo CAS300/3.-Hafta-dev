@@ -1,1 +1,1 @@
-# 3.-Hafta-dev
+# 3.-Hafta-Ödev
